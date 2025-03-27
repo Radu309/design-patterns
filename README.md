@@ -3,8 +3,4 @@ This repository contains implementations of the 23 classic design patterns as ou
 Creational Patterns: Deal with object creation mechanisms.
 Structural Patterns: Focus on object composition and relationships.
 Behavioral Patterns: Address communication between objects.
-Each pattern is accompanied by:
 
-Definition: A brief explanation of the pattern's purpose and usage.
-UML Diagram: A diagram illustrating the structure of the pattern.
-Code Example: Implementation of the pattern in one or more programming languages (e.g., Python, Java, C++).
